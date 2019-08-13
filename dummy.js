@@ -2,6 +2,6 @@ setTimeout(()=>{
     console.log('hello');
 },1000);
 
-function inDevBranch(){
-    console.log('yesssss!!');
+function dev(){
+    console.log('hello');
 }
