@@ -5,3 +5,7 @@ setTimeout(()=>{
 function dev(){
     console.log('hello');
 }
+
+function forpush(){
+    console.log('for push');
+}
